@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Muse Semu
 # 💫 About Me:
 🌍  I am a Full-Stack Developer based in Ethiopia, Addis Ababa.<br>
-🎓 Computer science Graduate from Gondar University<br> 📬 you can reach me at smuse1756@gmail.com
+🎓 Computer science Graduate from  University of Gondar<br> 📬 you can reach me at smuse1756@gmail.com
 
 
 ## 🌐 Socials:
